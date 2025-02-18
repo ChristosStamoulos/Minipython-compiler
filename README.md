@@ -66,10 +66,8 @@ The project is divided into two main phases:
 
 1. Clone this repository:
 
+   - then run:
 ```sh
-
-git clone https://github.com/your-username/mini-python-compiler.git
-
 cd (loacation of the ptoject)/Minpython-compiler\Project\Project 2-Phase B
 
 ```
@@ -107,6 +105,14 @@ java ParserTest1 e.py
 - Errors, if any, will be displayed in the console.
 
 ## Example of usage
+This python script triggers the 7nth check of the compiler because the functions created are duplicates and they have the same number of parameters
+
+![image](https://github.com/user-attachments/assets/5ddd4538-b81a-4f54-b607-2fb11411e5b6)
+
+The outcome:
+
+![image](https://github.com/user-attachments/assets/e9890f32-6554-49a9-a3ee-4da6140c6dde)
+
 
 ## Authors
 
