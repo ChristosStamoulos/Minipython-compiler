@@ -1,5 +1,5 @@
 
-# Mini Python Compiler
+# Mini-Python Compiler
 
 ## Description
 
